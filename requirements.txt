@@ -1,0 +1,5 @@
+# File to list all the Python libraries this project depends on:
+numpy
+pandas
+matplotlib
+yfinance
